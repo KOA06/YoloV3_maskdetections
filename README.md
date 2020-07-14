@@ -1,4 +1,4 @@
-| **Title**      | YOLOV23 COVID-19 MASK DETECTION |
+| **Title**      | COVID-19 MASK DETECTION |
 | ---------- |-------------------|
 | **Team**       | Khoa Tang - tangkn.0604@gmail.com  
 | **Predicting** | The Goal is to detect if someone is wearing a mask or not willing to wearing mask
